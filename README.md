@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<h1 align="center"> Bem-vindos a Equipe Gfour 👋 </h1>
+<h1 align="center"> Bem-vindos a Equipe GFour 👋 </h1>
 
 <h1 align="center">
 	
