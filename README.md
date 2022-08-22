@@ -11,7 +11,7 @@
 
 <h2> :office: Sobre</h2>
 <div style="margin-right: 30px;">   
-   <h4> Repositório destinado ao compartilhamento dos projetos realizados na Fatec SJC - Prof. Jessen Vidal</h4>
+   <h3> Repositório destinado ao compartilhamento dos projetos realizados na Fatec SJC - Prof. Jessen Vidal</h3>
   <br>
 
   <h2> :briefcase: Projetos</h2>
