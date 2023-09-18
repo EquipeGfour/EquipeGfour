@@ -18,7 +18,7 @@
   <h4> :hospital: IONIC Health - 1°Semestre de 2022: -  https://github.com/EquipeGfour/Api-2-Semestre- </h4>
   <h4> :computer: UOL - 2° Semestre de 2022: - https://github.com/EquipeGfour/API-3Semestre-UOL </h4>
   <h4> :sun_behind_small_cloud: Tecsus - 1° Semestre de 2023: - https://github.com/EquipeGfour/API-4SemestreDSM-EstacaoMeteorologica </h4>
-  <h4> :sun_behind_small_cloud: Oracle - 2° Semestre de 2023: - https://github.com/EquipeGfour/API-5Semestre-OracleAcademy </h4>
+  <h4> ☕: Oracle - 2° Semestre de 2023: - https://github.com/EquipeGfour/API-5Semestre-OracleAcademy </h4>
 </div>
 
 <br>
